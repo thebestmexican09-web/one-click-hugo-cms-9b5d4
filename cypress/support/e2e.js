@@ -24,4 +24,5 @@ import "./commands";
 // require('./commands')
 // Import commands.js using ES2015 syntax:
 import "./commands"; supportFile
+// require('./commands')
 
