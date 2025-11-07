@@ -3,7 +3,7 @@ describe("empty spec", () => {
     cy.visit("/");
   });
 
-  it("opens the index page", () => {
+  it("opens the index page", (index.html) => {
     cy.get("h1").contains("Making families smile all across the world");
   });
 
