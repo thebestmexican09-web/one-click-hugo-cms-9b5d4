@@ -31,4 +31,4 @@ describe("validate blog", () => {
     cy.visit("/post");
     cy.get("ul#blog-list li").should("have.length", 3);
   });
-});
+}); help
